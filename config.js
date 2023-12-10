@@ -17,15 +17,15 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["263780699988","13658000980"];         //If you want singal number so global.Owner = ['263780699988'] Change into your number.
-global.OwnerNumber = ["263780699988","13658000980"];   //If you want singal number so global.Owner = ['263780699988'] Change into your number.
-global.ownertag = ["263780699988"];
+global.Owner = ["919496899283","971503736378"];         //If you want singal number so global.Owner = ['263780699988'] Change into your number.
+global.OwnerNumber = ["919496899283","971503736378"];   //If you want singal number so global.Owner = ['263780699988'] Change into your number.
+global.ownertag = ["919496899283"];
 global.OwnerName = "ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×";
 global.BotName = "BayMax Bot";
 global.packname = "BayMax Bot";                             //Do not change.
 global.author = "By: ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×";                               //Do not change.
-global.BotSourceCode = "https://github.com/mrjuice01/BayMax-MD"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji"; 
+global.BotSourceCode = "https://github.com/BlackHatDragon/BayMax-MD"; //Do not change.
+global.SupportGroupLink = ""; 
 
 
 //
@@ -42,7 +42,7 @@ global.location = "Brooklyn, New York";
 global.reactmoji = "❤️";
 global.themeemoji = "🐦";
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
-global.websitex = "https://github.com/mrjuice01";
+global.websitex = "";
 global.lolhuman = "KaysaS";
 
 
